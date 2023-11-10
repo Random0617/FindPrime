@@ -1,4 +1,7 @@
-# FindPrime
+# Generated.txt
+This file has the list of 1020 randomly generated integers used for tests in both methods.
+
+# main.cpp
 In int(main) function in main.cpp, you will see the following:
 ```
 int(main) {
