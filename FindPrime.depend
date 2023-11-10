@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1699578006 source:d:\university\02 - sc203 - scientific method\lab 2\findprime\main.cpp
+	<iostream>
+	<time.h>
+	"sieves.h"
+
+1699514263 source:d:\university\02 - sc203 - scientific method\lab 2\findprime\sieves.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	"sieves.h"
+
+1699085933 d:\university\02 - sc203 - scientific method\lab 2\findprime\sieves.h
+	<vector>
+
